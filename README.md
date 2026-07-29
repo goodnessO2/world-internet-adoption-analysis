@@ -1,6 +1,6 @@
 # 🌐 Global Internet Adoption Analysis | World Development Indicators (WDI)
 
-![Global Internet Adoption Dashboard](World_Internet_Adoption_Dashboard.jpeg)
+![Global Internet Adoption Dashboard](World_Internet_Adoption_Dashboard.png)
 
 ## 📖 Project Overview
 
